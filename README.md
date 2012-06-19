@@ -6,3 +6,6 @@ fairly neat ANSI C, and depends on your system having:
 - GLUT
 - libpng (& libz)
 
+This is currently setup to compile under OS X using clang as it's compiler.  The code
+will compile fine under Linux but will require all the header paths, lib paths etc to
+be updated.
